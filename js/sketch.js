@@ -53,11 +53,11 @@ function setup() {
 }
 
 
-function keyPressed(){
-        var len = song.duration();
-        song.jump(235);
+//function keyPressed(){
+        //var len = song.duration();
+        //song.jump(235);
     
-}
+//}
 
 
 
